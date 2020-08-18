@@ -1,5 +1,8 @@
 # BOJ_python
 
+<https://www.acmicpc.net/user/changhw>
+
+
 Baekjoon Online Judge의 알고리즘 문제들을 python으로 풀어보는 레포
 
 폴더의 분류 기준은 BOJ 사이트의 [알고리즘 분류](https://www.acmicpc.net/problem/tags) 를 따릅니다.
